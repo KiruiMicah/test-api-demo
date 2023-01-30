@@ -17,6 +17,6 @@ public class TestApiDemoApplication {
 
     @GetMapping("/")
     public  String goHome(){
-        return  "Api deployed sucessfully!";
+        return  "Api deployed sucessfully! Rest apis....";
     }
 }
