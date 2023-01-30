@@ -17,6 +17,6 @@ public class TestApiDemoApplication {
 
     @GetMapping("/")
     public  String goHome(){
-        return  "Api deployed sucessfully! Rest apis....";
+        return  "Apis deployed successfully on kubenetes -REDHAT OPENSHIFT";
     }
 }
